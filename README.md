@@ -7,3 +7,8 @@
  Step 3 : Check the html report  and network logs files below target folder. <br />
  
  
+ 
+# Notes : For capturing network traffic used browsermob-core dependency 
+
+Refer : [browsermob-proxy]([https://www.google.com](https://github.com/lightbody/browsermob-proxy))
+ 
